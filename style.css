@@ -1,0 +1,22 @@
+h1 {
+    margin-left: 95px;
+    font-size: 25px;
+    color: blueviolet;
+}
+img {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+p {
+    margin-left: 40px;
+}
+button {
+    background-color:  aquamarine;
+    margin-left: 95px;
+}
+
+a {
+    margin-top: 40px;
+    margin-left: 60px;
+}
